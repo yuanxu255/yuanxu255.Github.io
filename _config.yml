@@ -18,7 +18,7 @@ avatar: null
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:xu589@wisc.edu
+  email: xu589@wisc.edu
   facebook:
   flickr:
   github: barryclark/jekyll-now
